@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/diaganoze/static/css/main.b9d07cc3.chunk.css",
+    "main.js": "/diaganoze/static/js/main.944b3639.chunk.js",
+    "main.js.map": "/diaganoze/static/js/main.944b3639.chunk.js.map",
+    "runtime-main.js": "/diaganoze/static/js/runtime-main.046b7090.js",
+    "runtime-main.js.map": "/diaganoze/static/js/runtime-main.046b7090.js.map",
+    "static/js/2.1289e2a4.chunk.js": "/diaganoze/static/js/2.1289e2a4.chunk.js",
+    "static/js/2.1289e2a4.chunk.js.map": "/diaganoze/static/js/2.1289e2a4.chunk.js.map",
+    "index.html": "/diaganoze/index.html",
+    "precache-manifest.4a6d1dcd3fee9a118044d5e34a02e66d.js": "/diaganoze/precache-manifest.4a6d1dcd3fee9a118044d5e34a02e66d.js",
+    "service-worker.js": "/diaganoze/service-worker.js",
+    "static/css/main.b9d07cc3.chunk.css.map": "/diaganoze/static/css/main.b9d07cc3.chunk.css.map",
+    "static/js/2.1289e2a4.chunk.js.LICENSE.txt": "/diaganoze/static/js/2.1289e2a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.046b7090.js",
+    "static/js/2.1289e2a4.chunk.js",
+    "static/css/main.b9d07cc3.chunk.css",
+    "static/js/main.944b3639.chunk.js"
+  ]
+}
