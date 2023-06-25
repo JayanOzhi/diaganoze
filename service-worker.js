@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/diaganoze/precache-manifest.6973d8afe8749ea745521a67f4a32f41.js"
+  "/diaganoze/precache-manifest.cf6be6f6215779a04e6f73d163261dc2.js"
 );
 
 self.addEventListener('message', (event) => {

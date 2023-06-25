@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c6b0b05079c7b799e5bee8a9fe3553f5",
+    "revision": "0c9ebb0efb7ecc54bbbce13cc28f7873",
     "url": "/diaganoze/index.html"
   },
   {
-    "revision": "801bc06602b4b24b5379",
+    "revision": "6b9084b36a04ba296496",
     "url": "/diaganoze/static/css/main.b9d07cc3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/diaganoze/static/js/2.1289e2a4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "801bc06602b4b24b5379",
-    "url": "/diaganoze/static/js/main.944b3639.chunk.js"
+    "revision": "6b9084b36a04ba296496",
+    "url": "/diaganoze/static/js/main.646cf4a8.chunk.js"
   },
   {
     "revision": "723a5bb8af2ea85e5952",
